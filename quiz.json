@@ -1,0 +1,15 @@
+[
+    {
+        "question": "How tall is the empire state building?",
+        "answer": "1,250ft",
+        "detractors": ["750ft", "1000ft", "1,150ft"]
+    }, {
+        "question": "How many legs does a horse have?",
+        "answer": "4",
+        "detractors": ["1", "2", "3", "5", "6"]
+    }, {
+        "question": "Is red a primary color?",
+        "answer": "True",
+        "detractors": ["False"]
+    }
+]
